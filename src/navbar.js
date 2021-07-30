@@ -4,37 +4,38 @@ import './App.css';
 
 function navbar() {
     return (
-        <>
-                <nav>
+        <div class="navbar-section">
+                <nav class="nav-link-main">
                     <div className="main-logo">
                         <NavLink className="logo-nav" to="/">DJ<span>.</span></NavLink>
                     </div>
-                    <div className="main-sections">
-                        <ul>
-                            <li className="main-multiple-sec-container">
-                                <NavLink to="/home">
+
+                    <div class="main-sections">
+                        <ul class="ul-section">
+                            <li class="main-multiple-sec-container">
+                                <NavLink className="nav-link" to="/home">
                                         Home
                                 </NavLink>
                             </li>
-                            <li className="main-multiple-sec-container">
-                                <NavLink to="/about"> 
+                            <li class="main-multiple-sec-container">
+                                <NavLink className="nav-link" to="/about"> 
                                         About
                                 </NavLink>
                             </li>
-                            <li className="main-multiple-sec-container">
-                                <NavLink to="/contact"> 
+                            <li class="main-multiple-sec-container">
+                                <NavLink className="nav-link" to="/contact"> 
                                         Contact
                                 </NavLink>
                             </li>
-                            <li className="main-multiple-sec-container">
-                                <NavLink to="/form"> 
+                            <li class="main-multiple-sec-container">
+                                <NavLink className="nav-link" to="/form"> 
                                         Form
                                 </NavLink>
                             </li>
                         </ul>
                     </div>
                 </nav>
-        </>
+        </div>
     )
 }
 

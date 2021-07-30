@@ -3,7 +3,7 @@ import './App.css';
 import About from './about';
 import Navbar from './navbar'
 import Contact from './Contact'
-import {Switch,Route} from 'react-router-dom'
+import {Redirect,Switch,Route} from 'react-router-dom'
 import Home from './Home'
 import Form from './Form';
 function App() {
@@ -15,6 +15,7 @@ function App() {
           <Route exact path="/about" component ={About}></Route>
           <Route exact path="/contact" component ={Contact}></Route>
           <Route exact path="/form" component ={Form}></Route>
+          <Redirect to="/"></Redirect>
         </Switch>
     </div>
   );

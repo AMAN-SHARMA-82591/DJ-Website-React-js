@@ -1,18 +1,54 @@
 .App {
   color:white;
 }
-
-.main-header-section{
+/* .navbar-section{
+  background-color:rgba(216, 213, 213, 0.096);
+} */
+.nav-link-main{
+  display:flex;
   width:100%;
-  max-width:1250px;
+  max-width:1100px;
   margin:0px auto;
+  justify-content: space-between;
 }
-.main-logo>p{
+.logo-nav>span{
+  color:white;
+}
+.ul-section{
+  display:flex;
+  padding:5px 0px 0px 0px;
+  width:500px;
+  justify-content: space-between;
+}
+.main-logo{
+  padding:10px 0px 0px 0px;
+}
+.main-logo .logo-nav{
+  text-decoration: none;
   color:rgb(180, 47, 47);
   font-size:35px;
   font-weight:bolder;
   letter-spacing:1px;
 }
+.main-multiple-sec-container{
+  list-style: none;
+}
+.ul-section .nav-link{
+  text-decoration:none;
+  color:white;
+  font-size:17px;
+  letter-spacing:1px;
+
+}
 .main-logo>p>span{
   color:white;
+}
+
+.home-img1{
+  position:absolute;
+  top:0;
+  left:0;
+  z-index:-1;
+  width:100%;
+  height:100%;
 }
