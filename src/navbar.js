@@ -18,6 +18,11 @@ function navbar() {
                                 </NavLink>
                             </li>
                             <li class="main-multiple-sec-container">
+                                <NavLink className="nav-link" to="/events">
+                                        Events
+                                </NavLink>
+                            </li>
+                            <li class="main-multiple-sec-container">
                                 <NavLink className="nav-link" to="/about"> 
                                         About
                                 </NavLink>
