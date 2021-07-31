@@ -33,8 +33,10 @@ function navbar() {
                                 </NavLink>
                             </li>
                             <li class="main-multiple-sec-container">
-                                <NavLink className="nav-link" to="/form"> 
-                                        Form
+                                <NavLink className="nav-link active" to="/shows"> 
+                                        Shows
+                                        <div className="hidden-items shows">
+                                        </div>
                                 </NavLink>
                             </li>
                         </ul>

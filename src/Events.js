@@ -7,15 +7,13 @@ import Img3 from './Images/3.jpg'
 import Img4 from './Images/img_4.jpg'
 import Img5 from './Images/person_6.jpg'
 import Img6 from './Images/hero_bg_1.jpg'
+import EventsContainer from './EventsContainer'
 function Events() {
     return (
         <>
-            <section className="events-section">
-                    <div class="events-sec-container">
-                        <h1>Events & Shows</h1>
-                        <p>Events every night, join with us! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, ad!</p>
-                        <button>JOIN US</button>
-                    </div>
+            <section className="events-section-main">
+                 <img className="home-img1" src={Img1} alt="front-logo"></img>
+                        <EventsContainer heading="Events & Shows" />
                     <div className="Events-timing">
                         <EventsTime image={Img1} date='JAN 24TH 2022' partyName="Music Night Fest Party" />
                         <EventsTime image={Img2} date='JAN 24TH 2022' partyName="Music Night Fest Party" />

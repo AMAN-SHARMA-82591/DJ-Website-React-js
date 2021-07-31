@@ -1,12 +1,15 @@
 import React from 'react'
+import EventsContainer from './EventsContainer'
 import Imgrock from './Images/img_4.jpg'
+import herobg from './Images/hero_bg_1.jpg'
+
 function about() {
     return (
         <div className="about-container-main">
+                <img className="home-img1" src={herobg} alt="front-logo"></img>
+
                 <div className="about-sec-container">
-                        <h1>About Us</h1>
-                        <p>Events every night, join with us! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, ad!</p>
-                        <button>JOIN US</button>
+                        <EventsContainer heading="About" />
                 </div>
 
                 <div className="about-sec-section-2">
