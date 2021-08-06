@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/DJ-Website-React-js/static/css/main.89535601.chunk.css",
+    "main.js": "/DJ-Website-React-js/static/js/main.5a9b587b.chunk.js",
+    "main.js.map": "/DJ-Website-React-js/static/js/main.5a9b587b.chunk.js.map",
+    "runtime-main.js": "/DJ-Website-React-js/static/js/runtime-main.a875f5db.js",
+    "runtime-main.js.map": "/DJ-Website-React-js/static/js/runtime-main.a875f5db.js.map",
+    "static/js/2.1e4010b0.chunk.js": "/DJ-Website-React-js/static/js/2.1e4010b0.chunk.js",
+    "static/js/2.1e4010b0.chunk.js.map": "/DJ-Website-React-js/static/js/2.1e4010b0.chunk.js.map",
+    "static/js/3.c43e3f9f.chunk.js": "/DJ-Website-React-js/static/js/3.c43e3f9f.chunk.js",
+    "static/js/3.c43e3f9f.chunk.js.map": "/DJ-Website-React-js/static/js/3.c43e3f9f.chunk.js.map",
+    "index.html": "/DJ-Website-React-js/index.html",
+    "static/css/main.89535601.chunk.css.map": "/DJ-Website-React-js/static/css/main.89535601.chunk.css.map",
+    "static/js/2.1e4010b0.chunk.js.LICENSE.txt": "/DJ-Website-React-js/static/js/2.1e4010b0.chunk.js.LICENSE.txt",
+    "static/media/1.e59b49e4.jpg": "/DJ-Website-React-js/static/media/1.e59b49e4.jpg",
+    "static/media/2.aef9673b.jpg": "/DJ-Website-React-js/static/media/2.aef9673b.jpg",
+    "static/media/3.96e8c732.jpg": "/DJ-Website-React-js/static/media/3.96e8c732.jpg",
+    "static/media/4.0eaa545a.jpg": "/DJ-Website-React-js/static/media/4.0eaa545a.jpg",
+    "static/media/Image-home.5c8299ab.jpg": "/DJ-Website-React-js/static/media/Image-home.5c8299ab.jpg",
+    "static/media/blurry-1854113_960_720.b75dfaf2.jpg": "/DJ-Website-React-js/static/media/blurry-1854113_960_720.b75dfaf2.jpg",
+    "static/media/hero_bg_1.f231482c.jpg": "/DJ-Website-React-js/static/media/hero_bg_1.f231482c.jpg",
+    "static/media/img_2.02fbda9e.jpg": "/DJ-Website-React-js/static/media/img_2.02fbda9e.jpg",
+    "static/media/img_4.6fb9d21c.jpg": "/DJ-Website-React-js/static/media/img_4.6fb9d21c.jpg",
+    "static/media/person_1.bb2dfb80.jpg": "/DJ-Website-React-js/static/media/person_1.bb2dfb80.jpg",
+    "static/media/person_2.47da931b.jpg": "/DJ-Website-React-js/static/media/person_2.47da931b.jpg",
+    "static/media/person_3.73299a12.jpg": "/DJ-Website-React-js/static/media/person_3.73299a12.jpg",
+    "static/media/person_4.114c155c.jpg": "/DJ-Website-React-js/static/media/person_4.114c155c.jpg",
+    "static/media/person_6.b452ce18.jpg": "/DJ-Website-React-js/static/media/person_6.b452ce18.jpg",
+    "static/media/place-3.9fbdaa7b.jpg": "/DJ-Website-React-js/static/media/place-3.9fbdaa7b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a875f5db.js",
+    "static/js/2.1e4010b0.chunk.js",
+    "static/css/main.89535601.chunk.css",
+    "static/js/main.5a9b587b.chunk.js"
+  ]
+}
