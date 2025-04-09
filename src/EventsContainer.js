@@ -41,6 +41,7 @@ function EventsContainer({ section }) {
       </div>
       <img
         className="home-img1"
+        loading="lazy"
         src={sectionDetails.image || herobg}
         alt={sectionDetails.title}
       />

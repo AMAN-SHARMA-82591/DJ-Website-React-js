@@ -72,7 +72,6 @@ function Home() {
           ) : (
             <h1 className="events-empty-data">No data available</h1>
           )}
-          {/* <FeaturedItemsSkeleton /> */}
         </div>
       </div>
       <div className="upcoming-section-home">
