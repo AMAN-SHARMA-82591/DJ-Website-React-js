@@ -9,7 +9,7 @@ function contact() {
         <div className="contact-sec-items">
           <div className="form-details">
             <form>
-              <label class="contact-label" for="">
+              <label class="contact-label" htmlFor="">
                 Full Name
               </label>
               <input
@@ -18,7 +18,7 @@ function contact() {
                 placeholder="Full Name"
               />
 
-              <label class="contact-label" for="">
+              <label class="contact-label" htmlFor="">
                 Email
               </label>
               <input
@@ -27,12 +27,12 @@ function contact() {
                 placeholder="Email Address"
               />
 
-              <label class="contact-label" for="">
+              <label class="contact-label" htmlFor="">
                 Subject
               </label>
               <input class="contact-input" type="text" placeholder="Subject" />
 
-              <label class="contact-label" for="">
+              <label class="contact-label" htmlFor="">
                 Message
               </label>
               <textarea

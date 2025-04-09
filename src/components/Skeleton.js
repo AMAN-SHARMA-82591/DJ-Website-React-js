@@ -4,7 +4,7 @@ import "react-loading-skeleton/dist/skeleton.css";
 
 function FeaturedItemsSkeleton() {
   return (
-    <div style={{ width: "360px" }}>
+    <div style={{ width: "360px", marginBottom: 20 }}>
       <Skeleton
         width={360}
         height={250}

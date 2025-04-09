@@ -82,7 +82,7 @@ function Home() {
       <div className="team-main-section">
         <h1 className="team-main-heading"> Our Team</h1>
         <div className="team-main-sec-items">
-          <div className="team-main-sec-item-1">
+          <div>
             <Team
               className="team-item1"
               img={person1}
